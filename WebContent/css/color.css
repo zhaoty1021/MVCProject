@@ -1,0 +1,48 @@
+@charset "UTF-8";
+#id1{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#id2{
+	color: #cc0001;
+	font-family: 华文行楷;
+	font-size: 30px;
+}
+#id3{
+	width: 50px;
+	height: 20px;
+	font-family:华文彩云;
+	background-color: orange;
+}
+#id4{
+	top:0; 
+	left:0; 
+	position: 
+	fixed;
+	z-index: -1;
+	width:100%;
+	height: 100%;
+}
+#id5{
+	color: #e8b018;
+	font-family: 华文宋体;
+	font-size: 15px;
+}
+#id6{
+	background: url(../image/1035357.jpg)  no-repeat center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#id7{
+	color:#06d300; 
+	font-family: 微软雅黑;
+	font-size: 15px;
+}
+p{
+	display: block;
+	margin-block-start:1em;
+	margin-block-end:1em;
+	margin-inline-start:0px;
+	margin-inline-end:0px;
+}

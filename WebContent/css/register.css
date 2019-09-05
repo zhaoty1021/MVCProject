@@ -1,0 +1,19 @@
+@charset "UTF-8";
+p{
+	color:#00cae5; 
+	font-family: 微软雅黑;
+	font-size: 15px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+#id1{
+	color:#e22018;
+	font-family: 华文行楷;
+}
+#id2{
+	color:#00cae5;
+	font-family: 华文行楷;
+}
